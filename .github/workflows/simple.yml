@@ -11,6 +11,6 @@ jobs:
         run: echo "first actions step"
       - name: multiline-script
         run: |
-          noder -v
+          node -v
           npm -v
 
